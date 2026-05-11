@@ -1,5 +1,5 @@
-api
 service
+api
 cache
 db
 server
