@@ -1,6 +1,6 @@
+admin
 flag
 redis
-admin
 dev
 internal
 auth
