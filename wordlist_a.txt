@@ -1,13 +1,13 @@
 admin
 flag
 redis
+secret
 dev
 internal
 auth
 core
 backend
 web
-secret
 system
 user
 payment
