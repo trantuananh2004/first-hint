@@ -1,8 +1,8 @@
-internal
 flag
 redis
 admin
 dev
+internal
 auth
 core
 backend
