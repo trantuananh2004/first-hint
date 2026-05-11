@@ -9,7 +9,7 @@ auth
 core
 web
 system
-user
 payment
+user
 data
 staging
