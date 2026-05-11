@@ -1,0 +1,15 @@
+internal
+flag
+redis
+admin
+dev
+auth
+core
+backend
+web
+secret
+system
+user
+payment
+data
+staging

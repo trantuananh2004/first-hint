@@ -1,0 +1,15 @@
+api
+service
+cache
+db
+server
+app
+node
+worker
+panel
+gateway
+manager
+backup
+tool
+vault
+store
